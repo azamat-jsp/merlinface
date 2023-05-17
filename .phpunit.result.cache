@@ -1,0 +1,1 @@
+{"version":1,"defects":{"App\\Tests\\ExampleTest::testNotFoundHandling":4,"App\\tests\\Feature\\ExampleTest::testNotFoundHandling":3},"times":{"App\\Tests\\ExampleTest::testNotFoundHandling":0.022,"App\\tests\\Feature\\ExampleTest::testNotFoundHandling":0.021}}

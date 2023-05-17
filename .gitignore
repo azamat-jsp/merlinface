@@ -1,0 +1,4 @@
+/public/uploads/*
+/.idea
+/.vscode
+/vendor
